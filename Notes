@@ -1,0 +1,15 @@
+Course Goals
+    • Getting familiar with the core concepts and syntax
+    • Data types and Data structures
+    • Ownership and Borrowing
+    • Allocating data to memory and accessing data from memory
+    • Standard Library
+    • Generics, Traits, Lifetimes, and much more…
+Why Rust?
+    • Fastest language after C
+    • Rich type system
+    • No garbage collector (faster runtime)
+    • Useful compiler output
+    • Memory Safety
+    • Most beloved programming language since 2016 (Stack overflow)
+    • Fast adoption in various branches.
